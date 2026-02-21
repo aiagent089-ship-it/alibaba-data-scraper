@@ -1,0 +1,401 @@
+[
+    {
+        "company": "Nantong Yuncheng Intelligent Technology Co., Ltd.",
+        "location": "Jiangsu,CN",
+        "gold_years": "N/A",
+        "rating": "4.9",
+        "reviews": "37 reviews",
+        "metrics": {
+            "On-time delivery": "98%",
+            "Reorder rate": "25%",
+            "Response time": "≤2h",
+            "Online revenue": "$628.8K+"
+        },
+        "main_products": [],
+        "featured_products": [
+            {
+                "price": "$4",
+                "min_order": "Min. order: 1 pair"
+            },
+            {
+                "price": "$4",
+                "min_order": "Min. order: 1 pair"
+            },
+            {
+                "price": "$0.92-1.05",
+                "min_order": "Min. order: 200 kilograms"
+            },
+            {
+                "price": "$0.92-1.05",
+                "min_order": "Min. order: 200 kilograms"
+            },
+            {
+                "price": "$20",
+                "min_order": "Min. order: 1 piece"
+            },
+            {
+                "price": "$20",
+                "min_order": "Min. order: 1 piece"
+            },
+            {
+                "price": "$0.92-1.05",
+                "min_order": "Min. order: 1000 kilograms"
+            },
+            {
+                "price": "$0.92-1.05",
+                "min_order": "Min. order: 1000 kilograms"
+            },
+            {
+                "price": "$0.85-0.95",
+                "min_order": "Min. order: 1 pound"
+            },
+            {
+                "price": "$0.85-0.95",
+                "min_order": "Min. order: 1 pound"
+            }
+        ]
+    },
+    {
+        "company": "Tianjin Xuruihengda Internatioanl Trading Co.,ltd",
+        "location": "Tianjin,CN",
+        "gold_years": "N/A",
+        "rating": "4.9",
+        "reviews": "12 reviews",
+        "metrics": {
+            "On-time delivery": "97%",
+            "Reorder rate": "<15%",
+            "Response time": "≤2h",
+            "Online revenue": "$415.7K+"
+        },
+        "main_products": [],
+        "featured_products": [
+            {
+                "price": "$0.79",
+                "min_order": "Min. order: 10 kilograms"
+            },
+            {
+                "price": "$0.79",
+                "min_order": "Min. order: 10 kilograms"
+            },
+            {
+                "price": "$0.69-0.90",
+                "min_order": "Min. order: 10 kilograms"
+            },
+            {
+                "price": "$0.69-0.90",
+                "min_order": "Min. order: 10 kilograms"
+            },
+            {
+                "price": "$0.76",
+                "min_order": "Min. order: 200 kilograms"
+            },
+            {
+                "price": "$0.76",
+                "min_order": "Min. order: 200 kilograms"
+            },
+            {
+                "price": "$1.14-1.16",
+                "min_order": "Min. order: 1000 pairs"
+            },
+            {
+                "price": "$1.14-1.16",
+                "min_order": "Min. order: 1000 pairs"
+            },
+            {
+                "price": "$1.12",
+                "min_order": "Min. order: 499 kilograms"
+            },
+            {
+                "price": "$1.12",
+                "min_order": "Min. order: 499 kilograms"
+            }
+        ]
+    },
+    {
+        "company": "Dingzhou Yunlingyu Sports Goods Co., Ltd.",
+        "location": "Hebei,CN",
+        "gold_years": "N/A",
+        "rating": "4.4",
+        "reviews": "7 reviews",
+        "metrics": {
+            "On-time delivery": "100%",
+            "Reorder rate": "18%",
+            "Response time": "≤5h",
+            "Online revenue": "$190.8K+"
+        },
+        "main_products": [],
+        "featured_products": [
+            {
+                "price": "$0.76-0.82",
+                "min_order": "Min. order: 10 kilograms"
+            },
+            {
+                "price": "$0.76-0.82",
+                "min_order": "Min. order: 10 kilograms"
+            },
+            {
+                "price": "$0.76",
+                "min_order": "Min. order: 100 kilograms"
+            },
+            {
+                "price": "$0.76",
+                "min_order": "Min. order: 100 kilograms"
+            },
+            {
+                "price": "$0.82",
+                "min_order": "Min. order: 10 kilograms"
+            },
+            {
+                "price": "$0.82",
+                "min_order": "Min. order: 10 kilograms"
+            },
+            {
+                "price": "$0.82",
+                "min_order": "Min. order: 100 kilograms"
+            },
+            {
+                "price": "$0.82",
+                "min_order": "Min. order: 100 kilograms"
+            },
+            {
+                "price": "$0.72-0.74",
+                "min_order": "Min. order: 10 kilograms"
+            },
+            {
+                "price": "$0.72-0.74",
+                "min_order": "Min. order: 10 kilograms"
+            }
+        ]
+    },
+    {
+        "company": "Hebei Yangrun Sports Equipment Co., Ltd.",
+        "location": "Hebei,CN",
+        "gold_years": "N/A",
+        "rating": "4.6",
+        "reviews": "44 reviews",
+        "metrics": {
+            "On-time delivery": "92%",
+            "Reorder rate": "18%",
+            "Response time": "≤2h",
+            "Online revenue": "$662.2K+"
+        },
+        "main_products": [],
+        "featured_products": [
+            {
+                "price": "$0.37-0.39",
+                "min_order": "Min. order: 1000 pounds"
+            },
+            {
+                "price": "$0.37-0.39",
+                "min_order": "Min. order: 1000 pounds"
+            },
+            {
+                "price": "$0.81-0.84",
+                "min_order": "Min. order: 10 kilometers"
+            },
+            {
+                "price": "$0.81-0.84",
+                "min_order": "Min. order: 10 kilometers"
+            },
+            {
+                "price": "$0.74-0.82",
+                "min_order": "Min. order: 500 kilograms"
+            },
+            {
+                "price": "$0.74-0.82",
+                "min_order": "Min. order: 500 kilograms"
+            },
+            {
+                "price": "$0.74-0.82",
+                "min_order": "Min. order: 500 kilograms"
+            },
+            {
+                "price": "$0.74-0.82",
+                "min_order": "Min. order: 500 kilograms"
+            },
+            {
+                "price": "$0.37-0.39",
+                "min_order": "Min. order: 500 pounds"
+            },
+            {
+                "price": "$0.37-0.39",
+                "min_order": "Min. order: 500 pounds"
+            }
+        ]
+    },
+    {
+        "company": "Dingzhou Lingxi Sports Goods Sales Co., Ltd.",
+        "location": "Hebei,CN",
+        "gold_years": "N/A",
+        "rating": "4.8",
+        "reviews": "31 reviews",
+        "metrics": {
+            "On-time delivery": "100%",
+            "Reorder rate": "<15%",
+            "Response time": "≤2h",
+            "Online revenue": "$586.1K+"
+        },
+        "main_products": [],
+        "featured_products": [
+            {
+                "price": "$0.90-0.95",
+                "min_order": "Min. order: 1000 kilograms"
+            },
+            {
+                "price": "$0.90-0.95",
+                "min_order": "Min. order: 1000 kilograms"
+            },
+            {
+                "price": "$0.92-0.98",
+                "min_order": "Min. order: 200 kilograms"
+            },
+            {
+                "price": "$0.92-0.98",
+                "min_order": "Min. order: 200 kilograms"
+            },
+            {
+                "price": "$1.50-1.90",
+                "min_order": "Min. order: 2 kilograms"
+            },
+            {
+                "price": "$1.50-1.90",
+                "min_order": "Min. order: 2 kilograms"
+            },
+            {
+                "price": "$0.75-0.82",
+                "min_order": "Min. order: 2 kilograms"
+            },
+            {
+                "price": "$0.75-0.82",
+                "min_order": "Min. order: 2 kilograms"
+            },
+            {
+                "price": "$1.08-1.10",
+                "min_order": "Min. order: 10 cartons"
+            },
+            {
+                "price": "$1.08-1.10",
+                "min_order": "Min. order: 10 cartons"
+            }
+        ]
+    },
+    {
+        "company": "Zhengzhou Yong Shark Trading Co., Ltd.",
+        "location": "Henan,CN",
+        "gold_years": "1 yr",
+        "rating": "4.9",
+        "reviews": "41 reviews",
+        "metrics": {
+            "On-time delivery": "100%",
+            "Reorder rate": "<15%",
+            "Response time": "≤2h",
+            "Online revenue": "$38.6K+"
+        },
+        "main_products": [
+            "Yoga Mats",
+            "Ab Roller Wheels",
+            "Dumbbells",
+            "Free Weights",
+            "Sports Fitness Yoga Wear",
+            "Pilates Reformers"
+        ],
+        "featured_products": [
+            {
+                "price": "$0.78-0.90",
+                "min_order": "Min. order: 100 kilograms"
+            },
+            {
+                "price": "$0.78-0.90",
+                "min_order": "Min. order: 100 kilograms"
+            },
+            {
+                "price": "$0.79-0.98",
+                "min_order": "Min. order: 100 kilograms"
+            },
+            {
+                "price": "$0.79-0.98",
+                "min_order": "Min. order: 100 kilograms"
+            },
+            {
+                "price": "$1.20",
+                "min_order": "Min. order: 100 kilograms"
+            },
+            {
+                "price": "$1.20",
+                "min_order": "Min. order: 100 kilograms"
+            },
+            {
+                "price": "$0.85-1.30",
+                "min_order": "Min. order: 50 kilograms"
+            },
+            {
+                "price": "$0.85-1.30",
+                "min_order": "Min. order: 50 kilograms"
+            },
+            {
+                "price": "$45-55",
+                "min_order": "Min. order: 2 pieces"
+            },
+            {
+                "price": "$45-55",
+                "min_order": "Min. order: 2 pieces"
+            }
+        ]
+    },
+    {
+        "company": "Hebei Junshang Sports Supplies Co., Ltd.",
+        "location": "In Hebei,CN",
+        "gold_years": "N/A",
+        "rating": "4.9",
+        "reviews": "17 reviews",
+        "metrics": {
+            "On-time delivery": "96%",
+            "Reorder rate": "20%",
+            "Response time": "≤3h",
+            "Online revenue": "$206.1K+"
+        },
+        "main_products": [],
+        "featured_products": [
+            {
+                "price": "$8.50",
+                "min_order": "Min. order: 10 sets"
+            },
+            {
+                "price": "$8.50",
+                "min_order": "Min. order: 10 sets"
+            },
+            {
+                "price": "$0.90-1",
+                "min_order": "Min. order: 100 kilograms"
+            },
+            {
+                "price": "$0.90-1",
+                "min_order": "Min. order: 100 kilograms"
+            },
+            {
+                "price": "$0.96-1",
+                "min_order": "Min. order: 100 kilograms"
+            },
+            {
+                "price": "$0.96-1",
+                "min_order": "Min. order: 100 kilograms"
+            },
+            {
+                "price": "$0.96-1",
+                "min_order": "Min. order: 100 kilograms"
+            },
+            {
+                "price": "$0.96-1",
+                "min_order": "Min. order: 100 kilograms"
+            },
+            {
+                "price": "$0.82-0.90",
+                "min_order": "Min. order: 50 kilograms"
+            },
+            {
+                "price": "$0.82-0.90",
+                "min_order": "Min. order: 50 kilograms"
+            }
+        ]
+    }
+]
